@@ -1,2 +1,2 @@
 # IngenieriaDeSotfware_backend
-Repositorio para bockend
+Repositorio para backend
